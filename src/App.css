@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  background-color: #d3d3d3;
+}
+
+.minecount {
+  color: white;
+  font-size: 30px;
+  margin: 0px;
+}
